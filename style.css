@@ -1,0 +1,22 @@
+div{
+    max-width: 800px;
+    margin: auto;
+}
+
+div.class_name {
+    word-wrap: normal;
+    
+}
+
+#center {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.inverted {
+    background-color:burlywood;
+    color: black;
+    font-size: 18px;
+}
